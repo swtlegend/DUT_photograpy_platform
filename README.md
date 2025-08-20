@@ -1,2 +1,4 @@
 # DUT_photograpy_platform
 这是一个DUT摄影论坛网站。
+意在解决同学们校园美图分享不便的问题
+详细代码请见master分支
